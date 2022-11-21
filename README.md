@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKluczniak
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python, Flask, JS, postgress, mySQL, CSS, HTML, C#
+- 🌱 I’m currently learning JaveScript, React, Node.js, mongoDB, postgress
 - 💞️ I’m looking to collaborate on Web application projects
 - 📫 How to reach me mjkluczniak@gmail.com
 
